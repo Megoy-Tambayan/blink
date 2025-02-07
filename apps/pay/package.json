@@ -30,7 +30,7 @@
     "@radix-ui/react-switch": "^1.0.3",
     "@t3-oss/env-nextjs": "^0.6.1",
     "bech32": "^2.0.0",
-    "bitcoinjs-lib": "5.0.5",
+    "bitcoinjs-lib": "6.0.0",
     "bolt11": "1.4.1",
     "bootstrap": "^4.5.2",
     "class-variance-authority": "^0.7.0",
