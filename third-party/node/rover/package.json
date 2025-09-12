@@ -2,7 +2,7 @@
   "name": "rover",
   "version": "1.0.0",
   "dependencies": {
-    "@apollo/rover": "^0.21.0"
+    "@apollo/rover": "^0.23.0"
   },
   "engines": {
     "node": "20",
